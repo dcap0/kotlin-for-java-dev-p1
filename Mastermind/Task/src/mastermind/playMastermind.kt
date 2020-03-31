@@ -50,14 +50,14 @@ fun hasErrorsInInput(guess: String): Boolean {
     return guess.length != CODE_LENGTH || guess.any { it !in possibleLetters } //return true if guess.length is not the asserted code length or if any of the guess are not in the possible letter set.
 }
 
-fun generateSecret(differentLetters: Boolean): String {//takes a boolean and puts
-    val chars = ALPHABET.toMutableList()
+fun generateSecret(differentLetters: Boolean): String {//takes a boolean, returns a string
+    val chars = ALPHABET.toMutableList() //takes the range ALPHABET ("A".."F") and makes it a mutable list
     return buildString {
-        for (i in 1..CODE_LENGTH) {
-            val letter = chars[Random.nextInt(chars.size)]
-            append(letter)
-            if (differentLetters) {
-                chars.remove(letter)
+        for (i in 1..CODE_LENGTH) {  // for loop, iterates once to the length of the code.
+            val letter = chars[Random.nextInt(chars.size)]// generate a random letter
+            append(letter)//append the value of letter
+            if (differentLetters) {//if different letters value is true
+                chars.remove(letter)//remove the letter from the char list.
             }
         }
     }
