@@ -33,7 +33,11 @@
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
@@ -44,6 +48,7 @@
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mastermind/Task/out/production/classes/mastermind/EvaluateGuessKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/out/production/classes/mastermind/EvaluateGuessKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/src/mastermind/evaluateGuess.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/src/mastermind/evaluateGuess.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/task-info.yaml" afterDir="false" />
     </list>
@@ -56,6 +61,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -80,7 +95,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
-  <component name="RunManager" selected="Gradle.TestMastermindRepeatedLetters">
+  <component name="RunManager" selected="Gradle.TestMastermindDifferentLetters">
     <configuration name="TestMastermindDifferentLetters" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -106,27 +121,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;mastermind.TestMastermindRepeatedLetters&quot; --stacktrace" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":Mastermind-Task:cleanTest" />
-            <option value=":Mastermind-Task:test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="TestMastermindRepeatedLetters.test01Sample" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;mastermind.TestMastermindRepeatedLetters.test01Sample&quot;" />
+        <option name="scriptParameters" value="--tests &quot;mastermind.TestMastermindRepeatedLetters&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -161,6 +156,26 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="TestMastermindRepeatedLetters.test21" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;mastermind.TestMastermindRepeatedLetters.test21&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Mastermind-Task:cleanTest" />
+            <option value=":Mastermind-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="PlayMastermindKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Mastermind-Task_main" />
       <option name="VM_PARAMETERS" />
@@ -176,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.TestMastermindRepeatedLetters" />
         <item itemvalue="Gradle.TestMastermindDifferentLetters" />
+        <item itemvalue="Gradle.TestMastermindRepeatedLetters" />
+        <item itemvalue="Gradle.TestMastermindRepeatedLetters.test21" />
         <item itemvalue="Kotlin.PlayMastermindKt" />
         <item itemvalue="Gradle.TestMastermindRepeatedLetters.test02Sample" />
-        <item itemvalue="Gradle.TestMastermindRepeatedLetters.test01Sample" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +213,7 @@
       <workItem from="1585683882931" duration="598000" />
       <workItem from="1585684494294" duration="1944000" />
       <workItem from="1585687787416" duration="5489000" />
-      <workItem from="1585755850562" duration="8043000" />
+      <workItem from="1585755850562" duration="15105000" />
     </task>
     <servers />
   </component>
@@ -210,38 +225,38 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="100" y="100" width="1720" height="844" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585770259714" />
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1585770776012">
+    <state width="1874" height="171" key="GridCell.Tab.0.bottom" timestamp="1585777951550">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585770776012" />
-    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1585770776011">
+    <state width="1874" height="171" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585777951550" />
+    <state width="1874" height="171" key="GridCell.Tab.0.center" timestamp="1585777951549">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585770776011" />
-    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1585770776010">
+    <state width="1874" height="171" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585777951549" />
+    <state width="1874" height="171" key="GridCell.Tab.0.left" timestamp="1585777951549">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585770776010" />
-    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1585770776011">
+    <state width="1874" height="171" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585777951549" />
+    <state width="1874" height="171" key="GridCell.Tab.0.right" timestamp="1585777951549">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585770776011" />
-    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1585766675384">
+    <state width="1874" height="171" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585777951549" />
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1585777948400">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585766675384" />
-    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1585766675383">
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585777948400" />
+    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1585777948399">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="340" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585766675383" />
-    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1585766675383">
+    <state width="1874" height="340" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585777948399" />
+    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1585777948399">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="340" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585766675383" />
-    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1585766675384">
+    <state width="1874" height="340" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585777948399" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1585777948399">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="340" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585766675384" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585777948399" />
     <state x="646" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1585755860645">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
@@ -250,23 +265,9 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="624" y="238" key="run.anything.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1585756774773" />
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585765817140">
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585772626333">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1585765817140" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-function">
-          <url>file://$PROJECT_DIR$/Mastermind/Task/test/mastermind/TestMastermindRepeatedLetters.kt</url>
-          <line>82</line>
-          <properties class="mastermind.TestMastermindRepeatedLetters" method="test25">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="14" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1585772626333" />
   </component>
 </project>
