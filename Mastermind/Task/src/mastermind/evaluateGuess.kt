@@ -21,7 +21,7 @@ fun evaluateGuess(secret: String, guess: String): Evaluation {
             for (y in 0 until guess.length){
                 if(guess[i] == secretMutable[y]) {
                     wrong++
-                    secretMutable = secretMutable.replaceFirst(secretMutable[y],replacementChar.toChar())
+                    secretMutable = secretMutable.replace(secretMutable[y],replacementChar.toChar())
             }
             }
         }

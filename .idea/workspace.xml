@@ -33,11 +33,7 @@
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
@@ -48,7 +44,6 @@
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mastermind/Task/out/production/classes/mastermind/EvaluateGuessKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/out/production/classes/mastermind/EvaluateGuessKt.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/src/mastermind/evaluateGuess.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/src/mastermind/evaluateGuess.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/task-info.yaml" afterDir="false" />
     </list>
@@ -182,8 +177,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.TestMastermindRepeatedLetters" />
-        <item itemvalue="Kotlin.PlayMastermindKt" />
         <item itemvalue="Gradle.TestMastermindDifferentLetters" />
+        <item itemvalue="Kotlin.PlayMastermindKt" />
         <item itemvalue="Gradle.TestMastermindRepeatedLetters.test02Sample" />
         <item itemvalue="Gradle.TestMastermindRepeatedLetters.test01Sample" />
       </list>
@@ -203,7 +198,7 @@
       <workItem from="1585683882931" duration="598000" />
       <workItem from="1585684494294" duration="1944000" />
       <workItem from="1585687787416" duration="5489000" />
-      <workItem from="1585755850562" duration="7880000" />
+      <workItem from="1585755850562" duration="8043000" />
     </task>
     <servers />
   </component>
@@ -215,22 +210,22 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="100" y="100" width="1720" height="844" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585770259714" />
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1585770605300">
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom" timestamp="1585770776012">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585770605300" />
-    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1585770605298">
+    <state width="1874" height="275" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585770776012" />
+    <state width="1874" height="275" key="GridCell.Tab.0.center" timestamp="1585770776011">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585770605298" />
-    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1585770605297">
+    <state width="1874" height="275" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585770776011" />
+    <state width="1874" height="275" key="GridCell.Tab.0.left" timestamp="1585770776010">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585770605297" />
-    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1585770605299">
+    <state width="1874" height="275" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585770776010" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right" timestamp="1585770776011">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="275" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585770605299" />
+    <state width="1874" height="275" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585770776011" />
     <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1585766675384">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
