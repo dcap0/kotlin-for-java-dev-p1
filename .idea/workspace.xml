@@ -112,6 +112,26 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="TestMastermindDifferentLetters.test05WrongPositions" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;mastermind.TestMastermindDifferentLetters.test05WrongPositions&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Mastermind-Task:cleanTest" />
+            <option value=":Mastermind-Task:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="TestMastermindRepeatedLetters" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -172,26 +192,13 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PlayMastermindKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="Mastermind-Task_main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="mastermind.PlayMastermindKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.TestMastermindRepeatedLetters" />
         <item itemvalue="Gradle.TestMastermindDifferentLetters" />
+        <item itemvalue="Gradle.TestMastermindDifferentLetters.test05WrongPositions" />
         <item itemvalue="Gradle.TestMastermindRepeatedLetters.test16" />
         <item itemvalue="Gradle.TestMastermindRepeatedLetters.test21" />
-        <item itemvalue="Kotlin.PlayMastermindKt" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +217,7 @@
       <workItem from="1585684494294" duration="1944000" />
       <workItem from="1585687787416" duration="5489000" />
       <workItem from="1585755850562" duration="15431000" />
-      <workItem from="1585778283618" duration="8440000" />
+      <workItem from="1585778283618" duration="10692000" />
     </task>
     <servers />
   </component>
@@ -222,38 +229,38 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="100" y="100" width="1720" height="844" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585770259714" />
-    <state width="1874" height="349" key="GridCell.Tab.0.bottom" timestamp="1585842744093">
+    <state width="1874" height="246" key="GridCell.Tab.0.bottom" timestamp="1585845546816">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585842744093" />
-    <state width="1874" height="349" key="GridCell.Tab.0.center" timestamp="1585842744091">
+    <state width="1874" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585845546816" />
+    <state width="1874" height="246" key="GridCell.Tab.0.center" timestamp="1585845546815">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="349" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585842744091" />
-    <state width="1874" height="349" key="GridCell.Tab.0.left" timestamp="1585842744090">
+    <state width="1874" height="246" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585845546815" />
+    <state width="1874" height="246" key="GridCell.Tab.0.left" timestamp="1585845546815">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="349" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585842744090" />
-    <state width="1874" height="349" key="GridCell.Tab.0.right" timestamp="1585842744092">
+    <state width="1874" height="246" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585845546815" />
+    <state width="1874" height="246" key="GridCell.Tab.0.right" timestamp="1585845546816">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="349" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585842744092" />
-    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1585777948400">
+    <state width="1874" height="246" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585845546816" />
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1585845521402">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585777948400" />
-    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1585777948399">
+    <state width="1874" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585845521402" />
+    <state width="1874" height="340" key="GridCell.Tab.1.center" timestamp="1585845521402">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="340" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585777948399" />
-    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1585777948399">
+    <state width="1874" height="340" key="GridCell.Tab.1.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585845521402" />
+    <state width="1874" height="340" key="GridCell.Tab.1.left" timestamp="1585845521401">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="340" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585777948399" />
-    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1585777948399">
+    <state width="1874" height="340" key="GridCell.Tab.1.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585845521401" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right" timestamp="1585845521402">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="340" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585777948399" />
+    <state width="1874" height="340" key="GridCell.Tab.1.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585845521402" />
     <state x="646" y="350" key="com.intellij.ide.util.TipDialog" timestamp="1585778283848">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
@@ -266,5 +273,16 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1585840260678" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/Mastermind/Task/src/mastermind/evaluateGuess.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
