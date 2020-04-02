@@ -39,7 +39,6 @@
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/kotlin/compileTestKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/reports/tests/test/packages/mastermind.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/reports/tests/test/packages/mastermind.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/src/mastermind/evaluateGuess.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/src/mastermind/evaluateGuess.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mastermind/Task/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Mastermind/Task/task-info.yaml" afterDir="false" />
@@ -133,12 +132,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="TestMastermindRepeatedLetters.test02Sample" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="TestMastermindRepeatedLetters.test16" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;mastermind.TestMastermindRepeatedLetters.test02Sample&quot; --scan" />
+        <option name="scriptParameters" value="--tests &quot;mastermind.TestMastermindRepeatedLetters.test16&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -190,9 +189,9 @@
       <list>
         <item itemvalue="Gradle.TestMastermindRepeatedLetters" />
         <item itemvalue="Gradle.TestMastermindDifferentLetters" />
+        <item itemvalue="Gradle.TestMastermindRepeatedLetters.test16" />
         <item itemvalue="Gradle.TestMastermindRepeatedLetters.test21" />
         <item itemvalue="Kotlin.PlayMastermindKt" />
-        <item itemvalue="Gradle.TestMastermindRepeatedLetters.test02Sample" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +210,7 @@
       <workItem from="1585684494294" duration="1944000" />
       <workItem from="1585687787416" duration="5489000" />
       <workItem from="1585755850562" duration="15431000" />
-      <workItem from="1585778283618" duration="1712000" />
+      <workItem from="1585778283618" duration="8440000" />
     </task>
     <servers />
   </component>
@@ -223,22 +222,22 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="100" y="100" width="1720" height="844" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585770259714" />
-    <state width="1874" height="349" key="GridCell.Tab.0.bottom" timestamp="1585780646743">
+    <state width="1874" height="349" key="GridCell.Tab.0.bottom" timestamp="1585842744093">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585780646743" />
-    <state width="1874" height="349" key="GridCell.Tab.0.center" timestamp="1585780646742">
+    <state width="1874" height="349" key="GridCell.Tab.0.bottom/0.0.1920.1044@0.0.1920.1044" timestamp="1585842744093" />
+    <state width="1874" height="349" key="GridCell.Tab.0.center" timestamp="1585842744091">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="349" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585780646742" />
-    <state width="1874" height="349" key="GridCell.Tab.0.left" timestamp="1585780646742">
+    <state width="1874" height="349" key="GridCell.Tab.0.center/0.0.1920.1044@0.0.1920.1044" timestamp="1585842744091" />
+    <state width="1874" height="349" key="GridCell.Tab.0.left" timestamp="1585842744090">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="349" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585780646742" />
-    <state width="1874" height="349" key="GridCell.Tab.0.right" timestamp="1585780646742">
+    <state width="1874" height="349" key="GridCell.Tab.0.left/0.0.1920.1044@0.0.1920.1044" timestamp="1585842744090" />
+    <state width="1874" height="349" key="GridCell.Tab.0.right" timestamp="1585842744092">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state width="1874" height="349" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585780646742" />
+    <state width="1874" height="349" key="GridCell.Tab.0.right/0.0.1920.1044@0.0.1920.1044" timestamp="1585842744092" />
     <state width="1874" height="340" key="GridCell.Tab.1.bottom" timestamp="1585777948400">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
@@ -259,13 +258,13 @@
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
     <state x="646" y="350" key="com.intellij.ide.util.TipDialog/0.0.1920.1044@0.0.1920.1044" timestamp="1585778283848" />
-    <state x="624" y="238" key="run.anything.popup" timestamp="1585756774773">
+    <state x="624" y="238" key="run.anything.popup" timestamp="1585837416953">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="624" y="238" key="run.anything.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1585756774773" />
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585772626333">
+    <state x="624" y="238" key="run.anything.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1585837416953" />
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1585840260678">
       <screen x="0" y="0" width="1920" height="1044" />
     </state>
-    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1585772626333" />
+    <state x="623" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1044@0.0.1920.1044" timestamp="1585840260678" />
   </component>
 </project>
